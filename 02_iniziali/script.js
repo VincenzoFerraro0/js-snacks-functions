@@ -7,6 +7,7 @@ restituisca nuovo un array con le iniziali di ogni parola dell'array fornito
             -Dichiariamo una nuova variabile che conterrà il metodo per estrarre la prima lettera
             -salviamo nel nuovo array la variabile precedente
         - come risultato ci darà il nuovo array
+        - stampiamo in console il risultato
 */
 
 const names = ["Anna", "Luca", "Marco", "Adele", "Giovanni", "Alessandra"];
